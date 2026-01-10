@@ -103,16 +103,23 @@ const ankit = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnkitLuphraX&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a0b2e&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitLuphraX&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a0b2e&title_color=00D9FF&text_color=ffffff&langs_count=8&cache_seconds=1800" alt="Top Languages" height="170"/>
+  
+[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=AnkitLuphraX&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a0b2e&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&count_private=true&include_all_commits=true)](https://github.com/AnkitLuphraX)
+
+[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AnkitLuphraX&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a0b2e&title_color=00D9FF&text_color=ffffff&langs_count=8)](https://github.com/AnkitLuphraX)
+
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=AnkitLuphraX&theme=tokyonight&hide_border=true&background=1a0b2e&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&cache_seconds=1800" alt="GitHub Streak"/>
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AnkitLuphraX&theme=tokyonight&hide_border=true&background=1a0b2e&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)](https://github.com/AnkitLuphraX)
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnkitLuphraX&theme=tokyo-night&hide_border=true&bg_color=1a0b2e&color=00D9FF&line=00D9FF&point=ffffff&cache_seconds=1800" alt="Contribution Graph" width="95%"/>
+  
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=AnkitLuphraX&theme=tokyo-night&hide_border=true&bg_color=1a0b2e&color=00D9FF&line=00D9FF&point=ffffff)
+
 </div>
 
 ---
@@ -120,7 +127,9 @@ const ankit = {
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AnkitLuphraX&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=AnkitLuphraX&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15)](https://github.com/AnkitLuphraX)
+
 </div>
 
 ---
