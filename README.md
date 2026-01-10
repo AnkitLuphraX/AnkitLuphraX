@@ -110,9 +110,34 @@ const ankit = {
 
 </div>
 
+---
+
+## 🔥 Contribution Stats
+
 <div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AnkitLuphraX&theme=tokyonight&hide_border=true&background=1a0b2e&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)](https://github.com/AnkitLuphraX)
+
+<table>
+<tr>
+<td>
+
+**📅 GitHub Activity**
+- 🎯 Total Commits (2026): Growing daily
+- ⭐ Stars Earned: Building reputation
+- 🔄 Pull Requests: Active contributor
+- 📦 Repositories: Quality over quantity
+
+</td>
+<td>
+
+**🏆 Achievements**
+- 💻 Code Enthusiast
+- 🚀 Early Adopter
+- 🌟 Open Source Supporter
+- 📚 Continuous Learner
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -124,11 +149,16 @@ const ankit = {
 
 ---
 
-## 🏆 GitHub Achievements
+## 📈 Coding Activity
 
 <div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=AnkitLuphraX&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15)](https://github.com/AnkitLuphraX)
+
+```text
+💻 Most Active Time: Evenings & Weekends
+🔥 Current Streak: Building daily
+📊 Weekly Commits: Consistent contributor
+🎯 Focus Areas: Discord Bots, Web Development
+```
 
 </div>
 
