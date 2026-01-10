@@ -87,14 +87,14 @@ const ankit = {
 
 <div align="center">
 
-| Skill | Proficiency |
-|-------|-------------|
-| **JavaScript/Node.js** | ![90%](https://progress-bar.dev/90?title=Expert&width=200&color=00D9FF) |
-| **Discord.js** | ![95%](https://progress-bar.dev/95?title=Expert&width=200&color=00D9FF) |
-| **MongoDB** | ![85%](https://progress-bar.dev/85?title=Advanced&width=200&color=00D9FF) |
-| **React/Next.js** | ![80%](https://progress-bar.dev/80?title=Advanced&width=200&color=00D9FF) |
-| **TypeScript** | ![75%](https://progress-bar.dev/75?title=Proficient&width=200&color=00D9FF) |
-| **Python** | ![70%](https://progress-bar.dev/70?title=Proficient&width=200&color=00D9FF) |
+| Skill | Level | Proficiency |
+|-------|-------|-------------|
+| **JavaScript/Node.js** | ⭐⭐⭐⭐⭐ | Expert (90%) |
+| **Discord.js** | ⭐⭐⭐⭐⭐ | Expert (95%) |
+| **MongoDB** | ⭐⭐⭐⭐⭐ | Advanced (85%) |
+| **React/Next.js** | ⭐⭐⭐⭐ | Advanced (80%) |
+| **TypeScript** | ⭐⭐⭐⭐ | Proficient (75%) |
+| **Python** | ⭐⭐⭐⭐ | Proficient (70%) |
 
 </div>
 
@@ -103,16 +103,16 @@ const ankit = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnkitLuphraX&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a0b2e&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitLuphraX&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a0b2e&title_color=00D9FF&text_color=ffffff&langs_count=8" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AnkitLuphraX&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a0b2e&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitLuphraX&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a0b2e&title_color=00D9FF&text_color=ffffff&langs_count=8&cache_seconds=1800" alt="Top Languages" height="170"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=AnkitLuphraX&theme=tokyonight&hide_border=true&background=1a0b2e&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=AnkitLuphraX&theme=tokyonight&hide_border=true&background=1a0b2e&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&cache_seconds=1800" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnkitLuphraX&theme=tokyo-night&hide_border=true&bg_color=1a0b2e&color=00D9FF&line=00D9FF&point=ffffff" alt="Contribution Graph" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnkitLuphraX&theme=tokyo-night&hide_border=true&bg_color=1a0b2e&color=00D9FF&line=00D9FF&point=ffffff&cache_seconds=1800" alt="Contribution Graph" width="95%"/>
 </div>
 
 ---
