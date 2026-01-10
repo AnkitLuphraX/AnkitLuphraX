@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="header.png" alt="Header" width="100%"/>
+  <img src="header.png" alt="Header" width="100%" height="80%"/>
 </div>
 
 <div align="center">
@@ -187,3 +187,4 @@ const ankit = {
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Happy%20Coding!&fontSize=40&fontColor=fff&animation=twinkling" width="100%"/>
   
 </div>
+
