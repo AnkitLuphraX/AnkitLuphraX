@@ -189,9 +189,9 @@ const ankit = {
 <div align="center">
   
   [![GitHub](https://img.shields.io/badge/GitHub-AnkitLuphraX-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnkitLuphraX)
-  [![Discord](https://img.shields.io/badge/Discord-Add_Me-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+  [![Discord](https://img.shields.io/badge/Discord-Add_Me-5865F2?style=for-the-badge&logo=discord&logoColor=white)]([https://discord.com](https://discord.com/users/1139925253489954969))
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-  [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+  [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](aquaman.3437@gmail.com)
   
 </div>
 
@@ -226,4 +226,5 @@ const ankit = {
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Happy%20Coding!&fontSize=40&fontColor=fff&animation=twinkling" width="100%"/>
   
 </div>
+
 
