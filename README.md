@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="header.png" alt="Header" width="100%" height="80%"/>
+  <img src="header.png" alt="Ankit's Developer Banner" width="100%"/>
 </div>
 
 <div align="center">
@@ -25,7 +25,8 @@ class AnkitLuphraX:
         self.roles = [
             "Full-Stack Developer",
             "ML Engineer",
-            "Discord Bot Architect"
+            "Discord Bot Architect",
+            "Data Science Explorer"
         ]
         self.current_focus = "Machine Learning & Intelligent Systems"
         self.learning = [
@@ -47,50 +48,82 @@ me = AnkitLuphraX()
 me.say_hi()
 ```
 
-- 🔭 Currently working on **ML pipelines & enterprise Discord bots**
-- 🧠 Expanding into **Machine Learning, Data Science & AI**
-- 🌱 Learning **scikit-learn, TensorFlow & cloud deployment**
-- 💬 Ask me about **Discord.js, Python, ML, Node.js, Web Dev**
-- 👯 Looking to collaborate on **open source & data-driven projects**
-- ⚡ Fun fact: **I automate everything — even my learning!**
+<div align="left">
+  <table>
+    <tr>
+      <td style="border: none; padding: 10px;">🔭 Currently working on</td>
+      <td style="border: none; padding: 10px;"><strong>ML pipelines & enterprise Discord bots</strong></td>
+    </tr>
+    <tr>
+      <td style="border: none; padding: 10px;">🧠 Expanding into</td>
+      <td style="border: none; padding: 10px;"><strong>Machine Learning, Data Science & AI</strong></td>
+    </tr>
+    <tr>
+      <td style="border: none; padding: 10px;">🌱 Learning</td>
+      <td style="border: none; padding: 10px;"><strong>scikit-learn, TensorFlow & cloud deployment</strong></td>
+    </tr>
+    <tr>
+      <td style="border: none; padding: 10px;">💬 Ask me about</td>
+      <td style="border: none; padding: 10px;"><strong>Discord.js, Python, ML, Node.js, Web Dev</strong></td>
+    </tr>
+    <tr>
+      <td style="border: none; padding: 10px;">👯 Looking to collaborate</td>
+      <td style="border: none; padding: 10px;"><strong>Open source & data-driven projects</strong></td>
+    </tr>
+    <tr>
+      <td style="border: none; padding: 10px;">⚡ Fun fact</td>
+      <td style="border: none; padding: 10px;"><strong>I automate everything — even my learning!</strong></td>
+    </tr>
+  </table>
+</div>
 
 ---
 
 ## 🏆 Recent Achievements & Milestones
 
 <div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### 📊 Data Science & ML
-- ✅ Completed **Data Cleaning & Visualization** project
-  - Cleaned 1500+ records with missing values, duplicates & outliers
-  - Built 10+ professional charts & interactive dashboards
-- ✅ Built **Predictive ML Models** for customer churn
-  - Trained Logistic Regression, Decision Tree & Random Forest
-  - Achieved **70.2% AUC** with ROC curve analysis
-  - Created confusion matrices, feature importance & PR curves
-- 🧪 Hands-on with Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
-
-</td>
-<td width="50%">
-
-### 🤖 Discord Bot Engineering
-- ✅ Built **Quindent** — enterprise-grade Discord bot
-  - Advanced Antinuke security system with modular config
-  - God-Tier music system with Poru engine + 24/7 mode
-  - Ticket system, moderation suite & giveaway system
-  - Canvas-rendered "Now Playing" cards
-- ✅ Separated Quindent Music into standalone bot
-- ✅ Built **premium landing page** with live stats API
-- 🔧 Turso database integration for persistence
-
-</td>
-</tr>
-</table>
-
+  <table border="0" style="border-collapse: collapse; border: none; width: 100%;">
+    <tr style="border: none;">
+      <td width="48%" align="left" style="border: none; padding: 20px; background-color: #1a0b2e; border-radius: 12px; vertical-align: top; box-shadow: 0 4px 20px rgba(0, 217, 255, 0.15);">
+        <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30" align="center"/> Data Science & ML</h3>
+        <hr color="#00D9FF" size="1"/>
+        <ul>
+          <li><strong>Completed Data Cleaning & Visualization</strong> project
+            <ul>
+              <li>Cleaned 1500+ records with missing values, duplicates & outliers</li>
+              <li>Built 10+ professional charts & interactive dashboards</li>
+            </ul>
+          </li>
+          <li><strong>Built Predictive ML Models</strong> for customer churn
+            <ul>
+              <li>Trained Logistic Regression, Decision Tree & Random Forest</li>
+              <li>Achieved <strong>70.2% AUC</strong> with ROC curve analysis</li>
+              <li>Created confusion matrices, feature importance & PR curves</li>
+            </ul>
+          </li>
+          <li>🧪 Hands-on with Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn</li>
+        </ul>
+      </td>
+      <td width="4%" style="border: none;"></td>
+      <td width="48%" align="left" style="border: none; padding: 20px; background-color: #1a0b2e; border-radius: 12px; vertical-align: top; box-shadow: 0 4px 20px rgba(0, 217, 255, 0.15);">
+        <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="30" align="center"/> Discord Bot Engineering</h3>
+        <hr color="#00D9FF" size="1"/>
+        <ul>
+          <li><strong>Built Quindent</strong> — enterprise-grade Discord bot
+            <ul>
+              <li>Advanced Antinuke security system with modular config</li>
+              <li>God-Tier music system with Poru engine + 24/7 mode</li>
+              <li>Ticket system, moderation suite & giveaway system</li>
+              <li>Canvas-rendered "Now Playing" cards</li>
+            </ul>
+          </li>
+          <li><strong>Separated Quindent Music</strong> into standalone bot</li>
+          <li>Built premium landing page with live stats API</li>
+          <li>🔧 Turso database integration for persistence</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -99,41 +132,40 @@ me.say_hi()
 
 <div align="center">
 
-### 💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ### 💻 Languages
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  
+  ### ⚙️ Frameworks & Libraries
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
 
-### ⚙️ Frameworks & Libraries
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+  ### 🧠 Data Science & ML
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
 
-### 🧠 Data Science & ML
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ### 🗄️ Databases
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+  <img src="https://img.shields.io/badge/Turso-4FF8D2?style=for-the-badge&logo=turso&logoColor=black" alt="Turso"/>
 
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Turso](https://img.shields.io/badge/Turso-4FF8D2?style=for-the-badge&logo=turso&logoColor=black)
-
-### 🚀 DevOps & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+  ### 🚀 DevOps & Tools
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
 
 </div>
 
@@ -143,17 +175,107 @@ me.say_hi()
 
 <div align="center">
 
-| Skill | Level | Proficiency |
-|-------|-------|-------------|
-| **JavaScript/Node.js** | ⭐⭐⭐⭐⭐ | Expert (90%) |
-| **Discord.js** | ⭐⭐⭐⭐⭐ | Expert (95%) |
-| **Python** | ⭐⭐⭐⭐⭐ | Advanced (85%) |
-| **Data Science (Pandas/Matplotlib)** | ⭐⭐⭐⭐ | Advanced (80%) |
-| **Machine Learning (Scikit-learn)** | ⭐⭐⭐⭐ | Proficient (75%) |
-| **MongoDB** | ⭐⭐⭐⭐⭐ | Advanced (85%) |
-| **React/Next.js** | ⭐⭐⭐⭐ | Advanced (80%) |
-| **TypeScript** | ⭐⭐⭐⭐ | Proficient (75%) |
+| Skill | Visual Level | Proficiency |
+|-------|--------------|-------------|
+| **Discord.js** | `█████████▊` | 95% (Expert) |
+| **JavaScript/Node.js** | `█████████░` | 90% (Expert) |
+| **Python** | `████████▌░` | 85% (Advanced) |
+| **MongoDB** | `████████▌░` | 85% (Advanced) |
+| **Data Science (Pandas/Matplotlib)** | `████████░░` | 80% (Advanced) |
+| **React/Next.js** | `████████░░` | 80% (Advanced) |
+| **Machine Learning (Scikit-learn)** | `███████▌░░` | 75% (Proficient) |
+| **TypeScript** | `███████▌░░` | 75% (Proficient) |
 
+</div>
+
+---
+
+## 🚀 Featured Showcase
+
+### 📊 Data Science & Machine Learning
+<div align="center">
+  <table border="0" style="border-collapse: collapse; border: none; width: 100%;">
+    <tr style="border: none;">
+      <td width="48%" align="left" style="border: none; padding: 20px; background-color: #1a0b2e; border-radius: 12px; vertical-align: top; box-shadow: 0 4px 20px rgba(0, 217, 255, 0.1);">
+        <h4>🧹 Data Cleaning & Visualization</h4>
+        <p><em>End-to-end data pipeline and analytical dashboard.</em></p>
+        <ul>
+          <li>E-commerce dataset with <strong>1500+ records</strong> processed</li>
+          <li>Robust handling of missing values, duplicates & outliers</li>
+          <li>10+ chart types built with a combined analysis dashboard</li>
+        </ul>
+        <p>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+          <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+          <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
+        </p>
+        <a href="https://github.com/AnkitLuphraX/data-cleaning-visualization">
+          <img src="https://img.shields.io/badge/View_Repository-00D9FF?style=for-the-badge&logo=github&logoColor=black" alt="View Rep"/>
+        </a>
+      </td>
+      <td width="4%" style="border: none;"></td>
+      <td width="48%" align="left" style="border: none; padding: 20px; background-color: #1a0b2e; border-radius: 12px; vertical-align: top; box-shadow: 0 4px 20px rgba(0, 217, 255, 0.1);">
+        <h4>🧠 Predictive ML Modeling</h4>
+        <p><em>Advanced binary classification models for customer forecasting.</em></p>
+        <ul>
+          <li>Predictive customer churn prediction pipeline</li>
+          <li>Compared 3 algorithms: <strong>Logistic Regression, Decision Trees, Random Forests</strong></li>
+          <li>ROC curves, feature importances, and precision-recall graphs</li>
+        </ul>
+        <p>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+          <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Sklearn"/>
+          <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+        </p>
+        <a href="https://github.com/AnkitLuphraX/predictive-modeling-ml">
+          <img src="https://img.shields.io/badge/View_Repository-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="View Rep"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+### 🤖 Discord Bot Engineering
+<div align="center">
+  <table border="0" style="border-collapse: collapse; border: none; width: 100%;">
+    <tr style="border: none;">
+      <td width="48%" align="left" style="border: none; padding: 20px; background-color: #1a0b2e; border-radius: 12px; vertical-align: top; box-shadow: 0 4px 20px rgba(0, 217, 255, 0.1);">
+        <h4>🛡️ Quindent — Advanced Security System</h4>
+        <p><em>Enterprise-grade Discord bot with antinuke protection.</em></p>
+        <ul>
+          <li>Comprehensive Antinuke system with modular config architecture</li>
+          <li>Role hierarchy: Owner, ExtraOwner, Trusted, Whitelisted users</li>
+          <li>Integrated support tickets, active giveaways, and moderation tools</li>
+        </ul>
+        <p>
+          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node"/>
+          <img src="https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord.js"/>
+          <img src="https://img.shields.io/badge/Turso-4FF8D2?style=flat-square&logo=turso&logoColor=black" alt="Turso"/>
+        </p>
+        <a href="https://github.com/AnkitLuphraX">
+          <img src="https://img.shields.io/badge/Explore_System-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Explore"/>
+        </a>
+      </td>
+      <td width="4%" style="border: none;"></td>
+      <td width="48%" align="left" style="border: none; padding: 20px; background-color: #1a0b2e; border-radius: 12px; vertical-align: top; box-shadow: 0 4px 20px rgba(0, 217, 255, 0.1);">
+        <h4>🎵 Quindent Music — Audio Bot</h4>
+        <p><em>Standalone high-fidelity music bot with intelligent queues.</em></p>
+        <ul>
+          <li>High-performance audio streaming engine using <strong>Poru</strong> + 24/7 playback</li>
+          <li>Dynamic, canvas-rendered custom "Now Playing" banner graphics</li>
+          <li>Dedicated web dashboard landing page with live statistics API</li>
+        </ul>
+        <p>
+          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node"/>
+          <img src="https://img.shields.io/badge/Canvas-000000?style=flat-square&logo=html5&logoColor=white" alt="Canvas"/>
+          <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
+        </p>
+        <a href="https://github.com/AnkitLuphraX">
+          <img src="https://img.shields.io/badge/Listen_Now-FF6B6B?style=for-the-badge&logo=google-play&logoColor=white" alt="Listen"/>
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -162,11 +284,11 @@ me.say_hi()
 
 <div align="center">
   
-[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=AnkitLuphraX&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a0b2e&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&count_private=true&include_all_commits=true)](https://github.com/AnkitLuphraX)
+  [![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=AnkitLuphraX&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a0b2e&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&count_private=true&include_all_commits=true)](https://github.com/AnkitLuphraX)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AnkitLuphraX&theme=tokyonight&hide_border=true&background=1a0b2e&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=AnkitLuphraX&theme=tokyonight&hide_border=true&background=1a0b2e&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)](https://git.io/streak-stats)
 
-[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AnkitLuphraX&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a0b2e&title_color=00D9FF&text_color=ffffff&langs_count=10)](https://github.com/AnkitLuphraX)
+  [![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AnkitLuphraX&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a0b2e&title_color=00D9FF&text_color=ffffff&langs_count=10)](https://github.com/AnkitLuphraX)
 
 </div>
 
@@ -176,76 +298,7 @@ me.say_hi()
 
 <div align="center">
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=AnkitLuphraX&theme=tokyo-night&hide_border=true&bg_color=1a0b2e&color=00D9FF&line=00D9FF&point=ffffff)
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-### 📊 Data Science & Machine Learning
-
-[![Data Cleaning](https://img.shields.io/badge/📊_Data_Cleaning_&_Visualization-View_Project-00D9FF?style=for-the-badge)](https://github.com/AnkitLuphraX/data-cleaning-visualization)
-[![ML Prediction](https://img.shields.io/badge/🧠_Predictive_ML_Modeling-View_Project-FF6B6B?style=for-the-badge)](https://github.com/AnkitLuphraX/predictive-modeling-ml)
-
-<table>
-<tr>
-<td width="50%">
-
-**🧹 Data Cleaning & Visualization**
-- E-commerce dataset with 1500+ records
-- Handled missing values, duplicates & outliers
-- 10 chart types + combined dashboard
-- `Python` `Pandas` `Matplotlib` `Seaborn`
-
-</td>
-<td width="50%">
-
-**🧠 Predictive Modeling (ML)**
-- Customer churn prediction system
-- 3 algorithms: LogReg, Decision Tree, Random Forest
-- ROC curves, confusion matrices, feature importance
-- `Python` `Scikit-learn` `NumPy`
-
-</td>
-</tr>
-</table>
-
-### 🤖 Discord Bot Engineering
-
-[![Quindent Bot](https://img.shields.io/badge/🤖_Quindent_Bot_System-Enterprise_Grade-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://github.com/AnkitLuphraX)
-[![Quindent Music](https://img.shields.io/badge/🎵_Quindent_Music-Standalone_Bot-FF6B6B?style=for-the-badge&logo=discord&logoColor=white)](https://github.com/AnkitLuphraX)
-
-<table>
-<tr>
-<td width="50%">
-
-**🛡️ Quindent — Security & Moderation**
-- Advanced Antinuke system with per-module config
-- Role-based access: Owner, ExtraOwner, Trusted, Whitelist
-- Ticket system, giveaways, utility commands
-- `Discord.js` `Node.js` `Turso DB`
-
-</td>
-<td width="50%">
-
-**🎵 Quindent Music — Standalone**
-- Poru-powered music engine with 24/7 mode
-- Canvas-rendered "Now Playing" cards
-- Search interface, AI song recommendations
-- Premium landing page with live stats API
-
-</td>
-</tr>
-</table>
-
-### 🌐 Web Development
-
-[![Portfolio](https://img.shields.io/badge/🌐_Web_Portfolio-View_Project-00D9FF?style=for-the-badge&logo=react&logoColor=white)](https://github.com/AnkitLuphraX)
-[![Bot Dashboard](https://img.shields.io/badge/📊_Bot_Dashboard-View_Project-00D9FF?style=for-the-badge&logo=next.js&logoColor=white)](https://github.com/AnkitLuphraX)
+  ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=AnkitLuphraX&theme=tokyo-night&hide_border=true&bg_color=1a0b2e&color=00D9FF&line=00D9FF&point=ffffff)
 
 </div>
 
@@ -273,15 +326,15 @@ me.say_hi()
 <div align="center">
 
 | Quarter | Goals | Status |
-|---------|-------|--------|
-| **Q1** | Launch Quindent Bot ecosystem | ✅ Completed |
-| **Q1** | Build Antinuke security suite | ✅ Completed |
-| **Q2** | Data Cleaning & Visualization project | ✅ Completed |
-| **Q2** | Predictive ML Modeling project | ✅ Completed |
-| **Q2** | Quindent Music standalone + website | ✅ Completed |
-| **Q3** | Deep Learning & Neural Networks | 🔄 In Progress |
-| **Q3** | Contribute to open source ML projects | 📋 Planned |
-| **Q4** | Full-stack AI-powered web application | 📋 Planned |
+|:---:|---|:---:|
+| **Q1** | Launch Quindent Bot ecosystem | ![](https://img.shields.io/badge/Completed-%2300D9FF.svg?style=flat-square&logo=github-actions&logoColor=black) |
+| **Q1** | Build Antinuke security suite | ![](https://img.shields.io/badge/Completed-%2300D9FF.svg?style=flat-square&logo=github-actions&logoColor=black) |
+| **Q2** | Data Cleaning & Visualization project | ![](https://img.shields.io/badge/Completed-%2300D9FF.svg?style=flat-square&logo=github-actions&logoColor=black) |
+| **Q2** | Predictive ML Modeling project | ![](https://img.shields.io/badge/Completed-%2300D9FF.svg?style=flat-square&logo=github-actions&logoColor=black) |
+| **Q2** | Quindent Music standalone + website | ![](https://img.shields.io/badge/Completed-%2300D9FF.svg?style=flat-square&logo=github-actions&logoColor=black) |
+| **Q3** | Deep Learning & Neural Networks | ![](https://img.shields.io/badge/In_Progress-%23AB47BC.svg?style=flat-square&logo=git-lfs&logoColor=white) |
+| **Q3** | Contribute to open source ML projects | ![](https://img.shields.io/badge/Planned-%2378909C.svg?style=flat-square&logo=target&logoColor=white) |
+| **Q4** | Full-stack AI-powered web application | ![](https://img.shields.io/badge/Planned-%2378909C.svg?style=flat-square&logo=target&logoColor=white) |
 
 </div>
 
