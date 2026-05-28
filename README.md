@@ -369,16 +369,38 @@ me.say_hi()
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="35" align="center"/> Coding Activity
 
 <div align="center">
-
-```text
-💻 Most Active Time    : Evenings & Late Nights
-🔥 Current Focus       : ML Pipelines + Discord Bots
-📊 Weekly Activity     : 5-7 days/week active coding
-🧠 Learning Now        : Deep Learning, MLOps, TensorFlow
-🛠️ Editor of Choice    : VS Code + Jupyter
-🎯 2026 Projects Done  : 4+ major projects shipped
-```
-
+  <table border="0" style="border-collapse: collapse; border: none; width: 85%; background-color: #1a0b2e; border-radius: 12px; box-shadow: 0 4px 20px rgba(0, 217, 255, 0.15); margin-top: 16px;">
+    <tr style="border: none;">
+      <td style="border: none; padding: 24px; vertical-align: top;">
+        <table border="0" style="border-collapse: collapse; border: none; width: 100%;">
+          <tr style="border: none;">
+            <td width="35%" style="border: none; padding: 10px 0; color: #00D9FF; font-weight: bold; font-size: 1.05rem;">💻 Most Active Time</td>
+            <td style="border: none; padding: 10px 0; color: #ffffff; font-size: 1.05rem;">Evenings &amp; Late Nights</td>
+          </tr>
+          <tr style="border: none;">
+            <td style="border: none; padding: 10px 0; color: #00D9FF; font-weight: bold; font-size: 1.05rem;">🔥 Current Focus</td>
+            <td style="border: none; padding: 10px 0; color: #ffffff; font-size: 1.05rem;">Stealth SaaS Platforms, ML Pipelines &amp; Discord Bots</td>
+          </tr>
+          <tr style="border: none;">
+            <td style="border: none; padding: 10px 0; color: #00D9FF; font-weight: bold; font-size: 1.05rem;">📊 Weekly Activity</td>
+            <td style="border: none; padding: 10px 0; color: #ffffff; font-size: 1.05rem;">5-7 days/week active coding</td>
+          </tr>
+          <tr style="border: none;">
+            <td style="border: none; padding: 10px 0; color: #00D9FF; font-weight: bold; font-size: 1.05rem;">🧠 Learning Now</td>
+            <td style="border: none; padding: 10px 0; color: #ffffff; font-size: 1.05rem;">Deep Learning, MLOps, TensorFlow &amp; Cryptography</td>
+          </tr>
+          <tr style="border: none;">
+            <td style="border: none; padding: 10px 0; color: #00D9FF; font-weight: bold; font-size: 1.05rem;">🛠️ Editor of Choice</td>
+            <td style="border: none; padding: 10px 0; color: #ffffff; font-size: 1.05rem;">VS Code &amp; Jupyter Notebooks</td>
+          </tr>
+          <tr style="border: none;">
+            <td style="border: none; padding: 10px 0; color: #00D9FF; font-weight: bold; font-size: 1.05rem;">🎯 2026 Projects Done</td>
+            <td style="border: none; padding: 10px 0; color: #ffffff; font-size: 1.05rem;">4+ major projects shipped</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
