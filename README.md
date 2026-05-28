@@ -126,7 +126,7 @@ me.say_hi()
     </tr>
     <tr style="border: none;">
       <td colspan="3" align="left" style="border: none; padding: 20px; margin-top: 16px; background-color: #1a0b2e; border-radius: 12px; vertical-align: top; box-shadow: 0 4px 20px rgba(0, 217, 255, 0.15);">
-        <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Lock.png" width="30" align="center"/> Full-Stack SaaS Engineering (Stealth Startup)</h3>
+        <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked.png" width="30" align="center"/> Full-Stack SaaS Engineering (Stealth Startup)</h3>
         <hr color="#00D9FF" size="1"/>
         <ul>
           <li><strong>Cryptographic Verification Engine</strong>: Designed secure credentials verification backend generating tamper-proof unique certificate IDs and secure code hashes on-the-fly.</li>
@@ -356,7 +356,7 @@ me.say_hi()
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Fire.png" width="35" align="center"/> Contribution Activity
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals%20and%20nature/Fire.png" width="35" align="center"/> Contribution Activity
 
 <div align="center">
 
