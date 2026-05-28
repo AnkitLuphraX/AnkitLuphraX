@@ -1,0 +1,512 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <meta name="description" content="Ankit Luphra — Full-Stack Software Architect, ML Engineer, and Discord Bot Architect. Premium portfolio showcasing stealth SaaS platforms, ML pipelines, and secure automated systems.">
+  <title>Ankit Luphra — Portfolio & Automation Console</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🛡️</text></svg>">
+</head>
+<body>
+
+  <!-- Fullscreen Interactive Particles Canvas Background -->
+  <canvas id="particles-canvas"></canvas>
+
+  <!-- Navigation Header -->
+  <header id="header">
+    <div class="container nav-wrapper">
+      <a href="#" class="nav-logo gradient-text">ANKIT.DEV</a>
+      <ul class="nav-menu" id="nav-menu">
+        <li><a href="#about" class="nav-link active">About</a></li>
+        <li><a href="#showcase" class="nav-link">Showcase</a></li>
+        <li><a href="#automation" class="nav-link">Automation</a></li>
+        <li><a href="#contact" class="nav-link">Contact</a></li>
+        <li><a href="#contact" class="btn btn-primary nav-cta">Let's Connect</a></li>
+      </ul>
+      <button class="hamburger" id="hamburger" aria-label="Toggle Navigation Menu">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+    </div>
+  </header>
+
+  <!-- Hero Section -->
+  <section id="about">
+    <div class="container hero-wrapper">
+      <div class="hero-content">
+        <div class="hero-subtitle-badge">
+          <span class="dot"></span>
+          Stealth SaaS Platform Live Beta Release
+        </div>
+        <h1 class="hero-title">Building the Future with <span class="gradient-text">High-Performance Code</span></h1>
+        <div class="typing-container">
+          <span id="typing-text"></span><span class="typing-cursor"></span>
+        </div>
+        <p class="hero-desc">
+          I am a Full-Stack Software Architect, Machine Learning Engineer, and Discord Bot Architect based in India. I specialize in designing highly secure, cryptographic verification platforms, scalable ML training pipelines, and enterprise-grade automated systems.
+        </p>
+        <div class="hero-actions">
+          <a href="#showcase" class="btn btn-primary">
+            Explore My Systems <i data-lucide="arrow-right" style="width:16px; height:16px;"></i>
+          </a>
+          <a href="#automation" class="btn btn-secondary">
+            <i data-lucide="terminal" style="width:16px; height:16px;"></i> Launch Live Console
+          </a>
+        </div>
+      </div>
+
+      <!-- Floating Glassmorphic Stats Visual Card -->
+      <div class="hero-visual-card">
+        <div class="card-header">
+          <div style="display:flex; align-items:center; gap:8px;">
+            <i data-lucide="shield-check" style="color:var(--primary-color); width:20px; height:20px;"></i>
+            <h4 style="font-size:0.95rem; font-weight:700;">Active Core Node</h4>
+          </div>
+          <span class="badge-live">LIVE</span>
+        </div>
+        <div style="background: rgba(0,0,0,0.2); padding: 12px; border-radius: 8px; border:1px solid rgba(255,255,255,0.05); font-family: var(--font-monospace); font-size:0.8rem;">
+          <p style="color:#10b981;">• Node: dad0354-ab45ea9</p>
+          <p style="color:var(--text-secondary);">• Anti-Nuke Security: STABLE</p>
+          <p style="color:var(--text-secondary);">• ML Latency: 42ms (TursoDB)</p>
+          <p style="color:var(--primary-color);">• Systems: Fully Automated</p>
+        </div>
+        <div style="display:flex; justify-content:space-between; align-items:center; border-top:1px solid rgba(255,255,255,0.06); padding-top:12px;">
+          <span style="font-size:0.8rem; color:var(--text-muted);">Uptime</span>
+          <span style="font-size:0.85rem; font-weight:bold; color:#10b981;">99.98%</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Showcase Section -->
+  <section id="showcase">
+    <div class="container">
+      <div class="section-header">
+        <h2>Systems <span class="gradient-text">Showcase</span></h2>
+        <p>A selection of production-grade systems, machine learning pipelines, and automations.</p>
+      </div>
+
+      <!-- Filter Tabs -->
+      <div class="filter-tabs">
+        <button class="filter-tab active" data-filter="all">All Systems</button>
+        <button class="filter-tab" data-filter="saas">SaaS &amp; Full-Stack</button>
+        <button class="filter-tab" data-filter="ml">Machine Learning &amp; DS</button>
+        <button class="filter-tab" data-filter="discord">Discord Automation</button>
+      </div>
+
+      <!-- Projects Grid -->
+      <div class="projects-grid" id="projects-grid">
+        
+        <!-- Project Card 1: Stealth SaaS Platform -->
+        <div class="glass-card project-card" data-category="saas">
+          <div class="project-card-header">
+            <div class="project-icon"><i data-lucide="lock"></i></div>
+            <span class="tech-tag">Stealth Mode</span>
+          </div>
+          <h3>Cryptographic Verification Network</h3>
+          <p>
+            An enterprise skill verification and certification ecosystem. Powered by a multi-layer secure authentication framework using Google/GitHub OAuth, real-time database integrity loops, and zero-static-storage procedural testing workspaces.
+          </p>
+          <div class="project-tech-list">
+            <span class="tech-tag">Node.js</span>
+            <span class="tech-tag">Firebase</span>
+            <span class="tech-tag">Supabase</span>
+            <span class="tech-tag">Turso SQL</span>
+          </div>
+          <a href="#automation" class="project-link">
+            Launch Simulation <i data-lucide="chevron-right" style="width:14px; height:14px;"></i>
+          </a>
+        </div>
+
+        <!-- Project Card 2: Quindent Antinuke Security -->
+        <div class="glass-card project-card" data-category="discord">
+          <div class="project-card-header">
+            <div class="project-icon"><i data-lucide="shield-alert"></i></div>
+            <span class="tech-tag">Stable v4.2</span>
+          </div>
+          <h3>Quindent Security Ecosystem</h3>
+          <p>
+            Enterprise-grade Discord security system utilizing a stateful anti-nuke controller. Features strict user hierarchy locks (Owner, ExtraOwner, Trusted, Whitelisted), modular configuration engines, and high-performance server audit logging.
+          </p>
+          <div class="project-tech-list">
+            <span class="tech-tag">Discord.js</span>
+            <span class="tech-tag">Node.js</span>
+            <span class="tech-tag">Redis</span>
+            <span class="tech-tag">Turso DB</span>
+          </div>
+          <a href="#automation" class="project-link">
+            Run Bot Diagnostics <i data-lucide="chevron-right" style="width:14px; height:14px;"></i>
+          </a>
+        </div>
+
+        <!-- Project Card 3: Predictive ML Modeling -->
+        <div class="glass-card project-card" data-category="ml">
+          <div class="project-card-header">
+            <div class="project-icon"><i data-lucide="brain"></i></div>
+            <span class="tech-tag">ML Pipeline</span>
+          </div>
+          <h3>Predictive Customer Churn Pipeline</h3>
+          <p>
+            An automated machine learning forecasting engine. Trained on high-dimensional feature arrays using Logistic Regression, Decision Trees, and Random Forests, reaching 70.2% AUC with feature importance matrices and ROC charts.
+          </p>
+          <div class="project-tech-list">
+            <span class="tech-tag">Python</span>
+            <span class="tech-tag">scikit-learn</span>
+            <span class="tech-tag">Pandas</span>
+            <span class="tech-tag">Matplotlib</span>
+          </div>
+          <a href="#automation" class="project-link">
+            Trigger Training Job <i data-lucide="chevron-right" style="width:14px; height:14px;"></i>
+          </a>
+        </div>
+
+        <!-- Project Card 4: Quindent Music Bot -->
+        <div class="glass-card project-card" data-category="discord">
+          <div class="project-card-header">
+            <div class="project-icon"><i data-lucide="music-4"></i></div>
+            <span class="tech-tag">Audio Engine</span>
+          </div>
+          <h3>Poru stand-alone Audio Engine</h3>
+          <p>
+            A high-performance standalone Discord streaming platform built with the Poru engine. Utilizes 24/7 active playback modules, dynamic Canvas-rendered "Now Playing" dashboard graphic matrices, and custom web metrics dashboards.
+          </p>
+          <div class="project-tech-list">
+            <span class="tech-tag">Node.js</span>
+            <span class="tech-tag">Poru Engine</span>
+            <span class="tech-tag">HTML5 Canvas</span>
+            <span class="tech-tag">Express API</span>
+          </div>
+          <a href="#automation" class="project-link">
+            Diagnose Stream <i data-lucide="chevron-right" style="width:14px; height:14px;"></i>
+          </a>
+        </div>
+
+        <!-- Project Card 5: E-commerce Data Cleaning Dashboard -->
+        <div class="glass-card project-card" data-category="ml">
+          <div class="project-card-header">
+            <div class="project-icon"><i data-lucide="bar-chart-3"></i></div>
+            <span class="tech-tag">Analytics</span>
+          </div>
+          <h3>Data Cleaning &amp; Analytics Dashboard</h3>
+          <p>
+            End-to-end multi-variate statistical data parsing suite. Cleans 1500+ customer records containing null matrices, outliers, and duplicates, outputting 10+ professional visual analysis dashboards and correlation graphs.
+          </p>
+          <div class="project-tech-list">
+            <span class="tech-tag">Python</span>
+            <span class="tech-tag">Pandas</span>
+            <span class="tech-tag">Seaborn</span>
+            <span class="tech-tag">NumPy</span>
+          </div>
+          <a href="#automation" class="project-link">
+            Run Data Pipeline <i data-lucide="chevron-right" style="width:14px; height:14px;"></i>
+          </a>
+        </div>
+
+        <!-- Project Card 6: Cryptographic Certificate verification portal -->
+        <div class="glass-card project-card" data-category="saas">
+          <div class="project-card-header">
+            <div class="project-icon"><i data-lucide="key-round"></i></div>
+            <span class="tech-tag">Secured API</span>
+          </div>
+          <h3>Secure Authentication &amp; Verification API</h3>
+          <p>
+            Independent security API layer that handles student session states, procedural quiz evaluations, and certificate verification triggers, built with strict database timeout parameters protecting transactions against hangs.
+          </p>
+          <div class="project-tech-list">
+            <span class="tech-tag">Express.js</span>
+            <span class="tech-tag">Supabase Auth</span>
+            <span class="tech-tag">JWT Cryptography</span>
+            <span class="tech-tag">Node.js</span>
+          </div>
+          <a href="#automation" class="project-link">
+            Test API Loops <i data-lucide="chevron-right" style="width:14px; height:14px;"></i>
+          </a>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- Automation Console Simulator Section -->
+  <section id="automation">
+    <div class="container">
+      <div class="section-header">
+        <h2>Automation <span class="gradient-text">Control Center</span></h2>
+        <p>Monitor system pipelines, database latencies, and execute simulated server workflows in real time.</p>
+      </div>
+
+      <div class="dashboard-grid">
+        
+        <!-- Interactive Terminal Console -->
+        <div class="glass-card console-card">
+          <div class="console-header">
+            <div class="console-title">
+              <i data-lucide="terminal"></i>
+              <span>SYSTEMS_LOG_STREAM:~#</span>
+            </div>
+            <div class="console-status-badge">
+              <span class="console-pulse"></span>
+              NODE ACTIVE
+            </div>
+          </div>
+          
+          <div class="console-screen" id="console-screen">
+            <!-- Simulated logs print here -->
+          </div>
+
+          <!-- Real-Time Hardware Resource Dial Dials -->
+          <div class="resources-grid">
+            <div class="resource-dial">
+              <svg width="80" height="80">
+                <circle cx="40" cy="40" r="35"></circle>
+                <circle cx="40" cy="40" r="35" id="cpu-ring"></circle>
+              </svg>
+              <div>
+                <div class="dial-value" id="cpu-value">24%</div>
+                <div class="dial-label">CPU LOAD</div>
+              </div>
+            </div>
+            <div class="resource-dial">
+              <svg width="80" height="80">
+                <circle cx="40" cy="40" r="35"></circle>
+                <circle cx="40" cy="40" r="35" id="ram-ring"></circle>
+              </svg>
+              <div>
+                <div class="dial-value" id="ram-value">48%</div>
+                <div class="dial-label">RAM USAGE</div>
+              </div>
+            </div>
+            <div class="resource-dial">
+              <svg width="80" height="80">
+                <circle cx="40" cy="40" r="35"></circle>
+                <circle cx="40" cy="40" r="35" id="db-ring"></circle>
+              </svg>
+              <div>
+                <div class="dial-value" id="db-value">12ms</div>
+                <div class="dial-label">DB LATENCY</div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Automation Job Controllers -->
+        <div class="glass-card controllers-card">
+          <h3 style="font-size:1.25rem; font-weight:700; display:flex; align-items:center; gap:8px;">
+            <i data-lucide="sliders-horizontal" style="color:var(--primary-color); width:20px; height:20px;"></i>
+            Manual Job Overrides
+          </h3>
+          
+          <!-- Controller Item 1: ML Pipeline -->
+          <div class="controller-item" id="job-ml">
+            <div class="controller-meta">
+              <h4>🧠 Predictive Customer Churn ML training</h4>
+              <span class="job-status" id="status-ml">READY</span>
+            </div>
+            <div class="progress-track">
+              <div class="progress-fill" id="fill-ml"></div>
+            </div>
+            <button class="btn btn-secondary btn-sm" onclick="triggerJob('ml')" style="padding: 8px 20px; font-size: 0.85rem; width:fit-content; border-radius:8px;">
+              <i data-lucide="play" style="width:12px; height:12px;"></i> Start Pipeline
+            </button>
+          </div>
+
+          <!-- Controller Item 2: Secure Cryptographic Verification -->
+          <div class="controller-item" id="job-auth">
+            <div class="controller-meta">
+              <h4>🔒 Cryptographic certificate signing check</h4>
+              <span class="job-status" id="status-auth">READY</span>
+            </div>
+            <div class="progress-track">
+              <div class="progress-fill" id="fill-auth"></div>
+            </div>
+            <button class="btn btn-secondary btn-sm" onclick="triggerJob('auth')" style="padding: 8px 20px; font-size: 0.85rem; width:fit-content; border-radius:8px;">
+              <i data-lucide="play" style="width:12px; height:12px;"></i> Run Diagnostics
+            </button>
+          </div>
+
+          <!-- Controller Item 3: Anti-Nuke Audit -->
+          <div class="controller-item" id="job-bot">
+            <div class="controller-meta">
+              <h4>🛡️ Quindent Antinuke active security sweep</h4>
+              <span class="job-status" id="status-bot">READY</span>
+            </div>
+            <div class="progress-track">
+              <div class="progress-fill" id="fill-bot"></div>
+            </div>
+            <button class="btn btn-secondary btn-sm" onclick="triggerJob('bot')" style="padding: 8px 20px; font-size: 0.85rem; width:fit-content; border-radius:8px;">
+              <i data-lucide="play" style="width:12px; height:12px;"></i> Audit Server Logs
+            </button>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- Contact Form Section -->
+  <section id="contact" style="background: rgba(9, 3, 20, 0.5);">
+    <div class="container">
+      <div class="section-header">
+        <h2>Let's <span class="gradient-text">Build Together</span></h2>
+        <p>Reach out to discuss full-stack software architecture, machine learning integrations, or security audits.</p>
+      </div>
+
+      <div class="contact-wrapper">
+        <form class="glass-card" id="contact-form" onsubmit="handleContactSubmit(event)">
+          <div class="form-group">
+            <label for="contact-name">Full Name *</label>
+            <input type="text" id="contact-name" class="form-input" required placeholder="Enter your name">
+          </div>
+          <div class="form-group">
+            <label for="contact-email">Email Address *</label>
+            <input type="email" id="contact-email" class="form-input" required placeholder="Enter your email">
+          </div>
+          <div class="form-group">
+            <label for="contact-message">Message Details *</label>
+            <textarea id="contact-message" class="form-input" rows="5" required placeholder="Describe your project, systems, or inquiry..."></textarea>
+          </div>
+          <button type="submit" class="btn btn-primary" style="width:100%; justify-content:center; border-radius:8px;">
+            <i data-lucide="send" style="width:16px; height:16px;"></i> Send Encrypted Message
+          </button>
+        </form>
+      </div>
+    </div>
+  </section>
+
+  <!-- Interactive Floating Settings / Paintbrush Customizer Trigger -->
+  <button class="customizer-toggle" id="customizer-toggle" aria-label="Toggle Theme Customizer Panel">
+    <i data-lucide="palette" style="width:24px; height:24px; color:#ffffff;"></i>
+  </button>
+
+  <!-- Interactive Theme Customizer Drawer Side-Panel -->
+  <div class="customizer-drawer" id="customizer-drawer">
+    <div class="customizer-header">
+      <h3>Theme customizer</h3>
+      <button class="customizer-close" id="customizer-close" aria-label="Close customizer">
+        <i data-lucide="x" style="width:20px; height:20px;"></i>
+      </button>
+    </div>
+    
+    <div class="customizer-content">
+      
+      <!-- Option 1: Accent Colors -->
+      <div class="control-group">
+        <div class="control-label">
+          <span>Primary Gradient Hue</span>
+        </div>
+        <div class="color-picker-wrapper">
+          <div class="color-input-container">
+            <input type="color" id="theme-primary" value="#00d9ff">
+            <span>Primary</span>
+          </div>
+          <div class="color-input-container">
+            <input type="color" id="theme-secondary" value="#ab47bc">
+            <span>Secondary</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Option 2: Card background -->
+      <div class="control-group">
+        <div class="control-label">
+          <span>Background Dark Matte</span>
+        </div>
+        <div class="color-input-container" style="width:100%;">
+          <input type="color" id="theme-bg" value="#090314">
+          <span>Base Background</span>
+        </div>
+      </div>
+
+      <!-- Option 3: Glassmorphism blur slider -->
+      <div class="control-group">
+        <div class="control-label">
+          <span>Glassmorphism Blur</span>
+          <span id="label-blur">16px</span>
+        </div>
+        <input type="range" id="theme-blur" class="slider-input" min="0" max="40" value="16">
+      </div>
+
+      <!-- Option 4: Card neon glow slider -->
+      <div class="control-group">
+        <div class="control-label">
+          <span>Neon Card Glow Spread</span>
+          <span id="label-glow">15px</span>
+        </div>
+        <input type="range" id="theme-glow" class="slider-input" min="0" max="40" value="15">
+      </div>
+
+      <!-- Option 5: Card border radius slider -->
+      <div class="control-group">
+        <div class="control-label">
+          <span>Card Border Radius</span>
+          <span id="label-radius">16px</span>
+        </div>
+        <input type="range" id="theme-radius" class="slider-input" min="0" max="30" value="16">
+      </div>
+
+      <!-- Option 6: Typography Font Selection -->
+      <div class="control-group">
+        <div class="control-label">
+          <span>Global Typography Family</span>
+        </div>
+        <select id="theme-font" class="dropdown-input">
+          <option value="'Outfit', sans-serif">Outfit (Modern Tech)</option>
+          <option value="'Inter', sans-serif">Inter (Sleek Professional)</option>
+          <option value="'Fira Code', monospace">Fira Code (Developer Classic)</option>
+          <option value="'Space Mono', monospace">Space Mono (Retro Cyber)</option>
+        </select>
+      </div>
+
+      <!-- Preset Themes Section -->
+      <div class="control-group" style="margin-top:10px;">
+        <div class="control-label">
+          <span>Theme Presets</span>
+        </div>
+        <div class="presets-grid">
+          <button class="preset-btn active" onclick="applyPreset('cyberpunk')">Cyberpunk</button>
+          <button class="preset-btn" onclick="applyPreset('matrix')">Matrix</button>
+          <button class="preset-btn" onclick="applyPreset('sunset')">Warm Gold</button>
+          <button class="preset-btn" onclick="applyPreset('nebula')">Deep Nebula</button>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- Drawer Footer Actions -->
+    <div class="customizer-footer">
+      <button class="btn btn-primary" onclick="exportThemeStyles()" style="justify-content:center; border-radius:8px; font-size:0.85rem; padding: 10px 16px;">
+        <i data-lucide="copy" style="width:14px; height:14px;"></i> Export CSS Variables
+      </button>
+      <button class="btn btn-secondary" onclick="resetThemeStyles()" style="justify-content:center; border-radius:8px; font-size:0.85rem; padding: 10px 16px;">
+        <i data-lucide="refresh-cw" style="width:14px; height:14px;"></i> Reset Defaults
+      </button>
+    </div>
+  </div>
+
+  <!-- Styled Notification Popups Toast -->
+  <div class="toast" id="toast-notify">
+    <span class="toast-icon">✅</span>
+    <span class="toast-text">Success! Configured successfully.</span>
+  </div>
+
+  <!-- Footer Section -->
+  <footer>
+    <div class="container footer-wrapper">
+      <div class="footer-text">
+        &copy; 2026 Ankit Luphra. Built with Love and Cryptographic Pride. • Cloudflare Secure Edge Network
+      </div>
+      <div class="footer-links">
+        <a href="https://github.com/AnkitLuphraX" class="footer-link" target="_blank">GitHub</a>
+        <a href="https://discord.com/users/1139925253489954969" class="footer-link" target="_blank">Discord</a>
+        <a href="mailto:aquaman.3437@gmail.com" class="footer-link">Email</a>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Lucide Vector Icons Library -->
+  <script src="https://unpkg.com/lucide@latest"></script>
+  <script src="app.js"></script>
+</body>
+</html>

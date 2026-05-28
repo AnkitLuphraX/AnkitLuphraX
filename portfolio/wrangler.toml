@@ -1,0 +1,8 @@
+# Cloudflare Pages Static Hosting Configuration
+# To deploy manually, run: npx wrangler pages deploy ./portfolio
+
+name = "ankit-portfolio-pages"
+compatibility_date = "2026-05-28"
+
+[site]
+bucket = "."
