@@ -199,6 +199,18 @@ header.scrolled {
   gap: 8px;
 }
 
+.nav-logo img {
+  height: 28px;
+  width: auto;
+  border-radius: 6px;
+  box-shadow: 0 0 10px rgba(0, 217, 255, 0.4);
+  transition: transform var(--transition-fast);
+}
+
+.nav-logo:hover img {
+  transform: rotate(6deg) scale(1.08);
+}
+
 .nav-menu {
   display: flex;
   gap: 32px;
@@ -698,11 +710,12 @@ header.scrolled {
 }
 
 .resource-dial circle:nth-child(2) {
-  stroke: var(--gradient-accent);
+  stroke: var(--primary-color);
   stroke-dasharray: 220;
   stroke-dashoffset: 220;
   stroke-linecap: round;
   transition: stroke-dashoffset 0.8s ease;
+  filter: drop-shadow(0 0 3px var(--primary-color));
 }
 
 .dial-value {
