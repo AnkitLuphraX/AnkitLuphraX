@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%F0%9F%92%BB;ML+Engineer+%F0%9F%A7%A0;Discord+Bot+Architect+%F0%9F%A4%96;Data+Science+Explorer+%F0%9F%93%8A;Building+the+Future+with+Code+%E2%9C%A8)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Full-Stack+Software+Architect+%F0%9F%9B%A1;ML+Engineer+%F0%9F%A7%A0;Discord+Bot+Architect+%F0%9F%A4%96;Data+Science+Explorer+%F0%9F%93%8A;Building+the+Future+with+Code+%E2%9C%A8)](https://git.io/typing-svg)
   
   <p>
     <a href="https://github.com/AnkitLuphraX"><img src="https://img.shields.io/github/followers/AnkitLuphraX?label=Followers&style=for-the-badge&color=00D9FF&labelColor=1a0b2e" alt="GitHub Followers"/></a>
@@ -16,28 +16,29 @@
 
 ---
 
-## 👨‍💻 About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="35" align="center"/> About Me
 
 ```python
 class AnkitLuphraX:
     def __init__(self):
         self.location = "India 🇮🇳"
         self.roles = [
-            "Full-Stack Developer",
+            "Full-Stack Software Architect",
             "ML Engineer",
             "Discord Bot Architect",
             "Data Science Explorer"
         ]
-        self.current_focus = "Machine Learning & Intelligent Systems"
+        self.current_focus = "Stealth SaaS, Deep Learning & MLOps"
         self.learning = [
-            "Deep Learning", "MLOps",
-            "Cloud Architecture", "System Design"
+            "Deep Learning & Neural Networks",
+            "MLOps & Cloud Orchestration",
+            "High-Performance System Architectures"
         ]
         
         self.active_projects = {
-            "quindent": "Enterprise-grade Discord Bot System",
-            "data_science": "Data Cleaning & Predictive Modeling",
-            "web": "Modern Web Applications"
+            "stealth_saas": "Enterprise-Grade Skill Certification & Cryptographic Verification Platform",
+            "quindent": "Enterprise-grade Discord Bot System & Portfolio Dashboards",
+            "data_science": "Predictive Modeling & Statistical ML Pipelines"
         }
         
     def say_hi(self):
@@ -52,34 +53,34 @@ me.say_hi()
   <table>
     <tr>
       <td style="border: none; padding: 10px;">🔭 Currently working on</td>
-      <td style="border: none; padding: 10px;"><strong>ML pipelines & enterprise Discord bots</strong></td>
+      <td style="border: none; padding: 10px;"><strong>Stealth SaaS platforms, ML pipelines & enterprise Discord systems</strong></td>
     </tr>
     <tr>
       <td style="border: none; padding: 10px;">🧠 Expanding into</td>
-      <td style="border: none; padding: 10px;"><strong>Machine Learning, Data Science & AI</strong></td>
+      <td style="border: none; padding: 10px;"><strong>Deep Learning, MLOps & High-Scalability Systems</strong></td>
     </tr>
     <tr>
       <td style="border: none; padding: 10px;">🌱 Learning</td>
-      <td style="border: none; padding: 10px;"><strong>scikit-learn, TensorFlow & cloud deployment</strong></td>
+      <td style="border: none; padding: 10px;"><strong>Neural Networks, TensorFlow, Supabase & Secure Cryptography</strong></td>
     </tr>
     <tr>
       <td style="border: none; padding: 10px;">💬 Ask me about</td>
-      <td style="border: none; padding: 10px;"><strong>Discord.js, Python, ML, Node.js, Web Dev</strong></td>
+      <td style="border: none; padding: 10px;"><strong>SaaS Architecture, Firebase/Supabase, Discord.js, ML, Node.js</strong></td>
     </tr>
     <tr>
       <td style="border: none; padding: 10px;">👯 Looking to collaborate</td>
-      <td style="border: none; padding: 10px;"><strong>Open source & data-driven projects</strong></td>
+      <td style="border: none; padding: 10px;"><strong>Innovative EdTech, SaaS startups, & secure full-stack software</strong></td>
     </tr>
     <tr>
       <td style="border: none; padding: 10px;">⚡ Fun fact</td>
-      <td style="border: none; padding: 10px;"><strong>I automate everything — even my learning!</strong></td>
+      <td style="border: none; padding: 10px;"><strong>I automate everything — even my learning pipelines!</strong></td>
     </tr>
   </table>
 </div>
 
 ---
 
-## 🏆 Recent Achievements & Milestones
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="35" align="center"/> Recent Achievements & Milestones
 
 <div align="center">
   <table border="0" style="border-collapse: collapse; border: none; width: 100%;">
@@ -123,12 +124,24 @@ me.say_hi()
         </ul>
       </td>
     </tr>
+    <tr style="border: none;">
+      <td colspan="3" align="left" style="border: none; padding: 20px; margin-top: 16px; background-color: #1a0b2e; border-radius: 12px; vertical-align: top; box-shadow: 0 4px 20px rgba(0, 217, 255, 0.15);">
+        <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Lock.png" width="30" align="center"/> Full-Stack SaaS Engineering (Stealth Startup)</h3>
+        <hr color="#00D9FF" size="1"/>
+        <ul>
+          <li><strong>Cryptographic Verification Engine</strong>: Designed secure credentials verification backend generating tamper-proof unique certificate IDs and secure code hashes on-the-fly.</li>
+          <li><strong>Multi-Layer Session & OAuth Security</strong>: Programmed robust authentication wrappers managing Google, GitHub, and standard email flows integrated with Supabase/Firebase backend pipelines.</li>
+          <li><strong>Procedural Conceptual Workspace & Dynamic AI Chat</strong>: Engineered zero-static-storage testing modules creating dynamic, interactive quizzes and capstone criteria, featuring custom client-side conversational AI support widgets.</li>
+          <li>🔧 Advanced CSS glassmorphic variables, interactive counters, and custom Canvas dynamic visual layers.</li>
+        </ul>
+      </td>
+    </tr>
   </table>
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="35" align="center"/> Tech Stack
 
 <div align="center">
 
@@ -145,6 +158,8 @@ me.say_hi()
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
 
   ### 🧠 Data Science & ML
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
@@ -171,7 +186,7 @@ me.say_hi()
 
 ---
 
-## 💼 Skill Proficiency
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="35" align="center"/> Skill Proficiency
 
 <div align="center">
 
@@ -179,8 +194,10 @@ me.say_hi()
 |-------|--------------|-------------|
 | **Discord.js** | `█████████▊` | 95% (Expert) |
 | **JavaScript/Node.js** | `█████████░` | 90% (Expert) |
+| **Full-Stack SaaS Architecture** | `█████████░` | 90% (Expert) |
 | **Python** | `████████▌░` | 85% (Advanced) |
-| **MongoDB** | `████████▌░` | 85% (Advanced) |
+| **MongoDB / SQL / Turso** | `████████▌░` | 85% (Advanced) |
+| **Firebase / Supabase Integration** | `████████▌░` | 85% (Advanced) |
 | **Data Science (Pandas/Matplotlib)** | `████████░░` | 80% (Advanced) |
 | **React/Next.js** | `████████░░` | 80% (Advanced) |
 | **Machine Learning (Scikit-learn)** | `███████▌░░` | 75% (Proficient) |
@@ -190,9 +207,9 @@ me.say_hi()
 
 ---
 
-## 🚀 Featured Showcase
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20Places/Rocket.png" width="35" align="center"/> Featured Showcase
 
-### 📊 Data Science & Machine Learning
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30" align="center"/> Data Science & Machine Learning
 <div align="center">
   <table border="0" style="border-collapse: collapse; border: none; width: 100%;">
     <tr style="border: none;">
@@ -235,11 +252,11 @@ me.say_hi()
   </table>
 </div>
 
-### 🤖 Discord Bot Engineering
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="30" align="center"/> Discord Bot Engineering
 <div align="center">
   <table border="0" style="border-collapse: collapse; border: none; width: 100%;">
     <tr style="border: none;">
-      <td width="48%" align="left" style="border: none; padding: 20px; background-color: #1a0b2e; border-radius: 12px; vertical-align: top; box-shadow: 0 4px 20px rgba(0, 217, 255, 0.1);">
+      <td width="48%" align="left" style="border: none; padding: 20px; background-color: #1a0b2e; border-radius: 12px; vertical-align: top; box-shadow: 0 4px 20px rgba(0, 217, 255, 0.15);">
         <h4>🛡️ Quindent — Advanced Security System</h4>
         <p><em>Enterprise-grade Discord bot with antinuke protection.</em></p>
         <ul>
@@ -257,7 +274,7 @@ me.say_hi()
         </a>
       </td>
       <td width="4%" style="border: none;"></td>
-      <td width="48%" align="left" style="border: none; padding: 20px; background-color: #1a0b2e; border-radius: 12px; vertical-align: top; box-shadow: 0 4px 20px rgba(0, 217, 255, 0.1);">
+      <td width="48%" align="left" style="border: none; padding: 20px; background-color: #1a0b2e; border-radius: 12px; vertical-align: top; box-shadow: 0 4px 20px rgba(0, 217, 255, 0.15);">
         <h4>🎵 Quindent Music — Audio Bot</h4>
         <p><em>Standalone high-fidelity music bot with intelligent queues.</em></p>
         <ul>
@@ -278,9 +295,54 @@ me.say_hi()
   </table>
 </div>
 
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30" align="center"/> Full-Stack Software Engineering (Stealth SaaS Platform)
+<div align="center">
+  <table border="0" style="border-collapse: collapse; border: none; width: 100%;">
+    <tr style="border: none;">
+      <td width="48%" align="left" style="border: none; padding: 20px; background-color: #1a0b2e; border-radius: 12px; vertical-align: top; box-shadow: 0 4px 20px rgba(0, 217, 255, 0.15);">
+        <h4>🔒 Secure Cryptographic Verification & Auth Engine</h4>
+        <p><em>Robust backend infrastructure for credential security & authentication.</em></p>
+        <ul>
+          <li><strong>Verification Portal</strong>: Generates secure unique certificate IDs and 8-character cryptographic verification strings to guarantee credential validity.</li>
+          <li><strong>Multi-Layer Session Auth</strong>: Integrated secure authentication workflows with Google & GitHub OAuth triggers and email verification.</li>
+          <li><strong>Database Integrity</strong>: Managed real-time database transactions with custom Promise timeout wrappers protecting DB structures against hanging states.</li>
+        </ul>
+        <p>
+          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node"/>
+          <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/>
+          <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"/>
+          <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
+        </p>
+        <a href="https://github.com/AnkitLuphraX">
+          <img src="https://img.shields.io/badge/Explore_Architecture-00D9FF?style=for-the-badge&logo=github&logoColor=black" alt="Explore"/>
+        </a>
+      </td>
+      <td width="4%" style="border: none;"></td>
+      <td width="48%" align="left" style="border: none; padding: 20px; background-color: #1a0b2e; border-radius: 12px; vertical-align: top; box-shadow: 0 4px 20px rgba(0, 217, 255, 0.15);">
+        <h4>🎓 Dynamic Learning Workspace & AI Support Agent</h4>
+        <p><em>Premium front-end user dashboard and client-side conversational AI helper.</em></p>
+        <ul>
+          <li><strong>Procedural Conceptual Testing</strong>: Engineered a zero-static-storage testing system generating dynamic domain-specific quizzes and capstone requirements.</li>
+          <li><strong>Dynamic AI Support chatbot</strong>: Integrated custom conversational AI mentorship chat windows handling user navigation and code inquiries in real time.</li>
+          <li><strong>High-Fidelity Interface</strong>: Responsive dark-mode dashboard with scroll reveals, active stats counters, and interactive floating components.</li>
+        </ul>
+        <p>
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS"/>
+          <img src="https://img.shields.io/badge/Lucide-Glow?style=flat-square&logo=appveyor&logoColor=white" alt="Lucide"/>
+        </p>
+        <a href="https://github.com/AnkitLuphraX">
+          <img src="https://img.shields.io/badge/View_Workspace-FF6B6B?style=for-the-badge&logo=google-play&logoColor=white" alt="View Workspace"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
 ---
 
-## 📊 GitHub Statistics
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="35" align="center"/> GitHub Statistics
 
 <div align="center">
   
@@ -294,7 +356,7 @@ me.say_hi()
 
 ---
 
-## 🔥 Contribution Activity
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20Places/Fire.png" width="35" align="center"/> Contribution Activity
 
 <div align="center">
 
@@ -304,7 +366,7 @@ me.say_hi()
 
 ---
 
-## 📈 Coding Activity
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="35" align="center"/> Coding Activity
 
 <div align="center">
 
@@ -321,7 +383,7 @@ me.say_hi()
 
 ---
 
-## 🎯 2026 Roadmap
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Direct%20Hit.png" width="35" align="center"/> 2026 Roadmap
 
 <div align="center">
 
@@ -332,15 +394,17 @@ me.say_hi()
 | **Q2** | Data Cleaning & Visualization project | ![](https://img.shields.io/badge/Completed-%2300D9FF.svg?style=flat-square&logo=github-actions&logoColor=black) |
 | **Q2** | Predictive ML Modeling project | ![](https://img.shields.io/badge/Completed-%2300D9FF.svg?style=flat-square&logo=github-actions&logoColor=black) |
 | **Q2** | Quindent Music standalone + website | ![](https://img.shields.io/badge/Completed-%2300D9FF.svg?style=flat-square&logo=github-actions&logoColor=black) |
+| **Q2** | Launch Stealth full-stack Certification Network (v1) | ![](https://img.shields.io/badge/Completed-%2300D9FF.svg?style=flat-square&logo=github-actions&logoColor=black) |
+| **Q3** | Stealth SaaS Scaled with Supabase & AI chat | ![](https://img.shields.io/badge/In_Progress-%23AB47BC.svg?style=flat-square&logo=git-lfs&logoColor=white) |
 | **Q3** | Deep Learning & Neural Networks | ![](https://img.shields.io/badge/In_Progress-%23AB47BC.svg?style=flat-square&logo=git-lfs&logoColor=white) |
 | **Q3** | Contribute to open source ML projects | ![](https://img.shields.io/badge/Planned-%2378909C.svg?style=flat-square&logo=target&logoColor=white) |
-| **Q4** | Full-stack AI-powered web application | ![](https://img.shields.io/badge/Planned-%2378909C.svg?style=flat-square&logo=target&logoColor=white) |
+| **Q4** | Full-stack AI-powered web applications | ![](https://img.shields.io/badge/Planned-%2378909C.svg?style=flat-square&logo=target&logoColor=white) |
 
 </div>
 
 ---
 
-## 📫 Connect With Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Postbox.png" width="35" align="center"/> Connect With Me
 
 <div align="center">
   
@@ -353,7 +417,7 @@ me.say_hi()
 
 ---
 
-## 💡 Random Dev Quote
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="35" align="center"/> Random Dev Quote
 
 <div align="center">
   
