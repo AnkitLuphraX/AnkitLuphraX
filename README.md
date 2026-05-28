@@ -356,7 +356,7 @@ me.say_hi()
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals%20and%20nature/Fire.png" width="35" align="center"/> Contribution Activity
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="35" align="center"/> Contribution Activity
 
 <div align="center">
 
