@@ -14,6 +14,12 @@
   
 </div>
 
+<p align="center">
+  <a href="https://ankitluphrax.qzz.io" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_ENTER_LIVE_CYBER_TERMINAL_PORTFOLIO-00D9FF?style=for-the-badge&logo=appveyor&logoColor=black" alt="Live Portfolio"/>
+  </a>
+</p>
+
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="35" align="center"/> About Me
@@ -125,6 +131,18 @@ me.say_hi()
       </td>
     </tr>
     <tr style="border: none;">
+      <td colspan="3" align="left" style="border: none; padding: 20px; background-color: #1a0b2e; border-radius: 12px; vertical-align: top; box-shadow: 0 4px 20px rgba(0, 217, 255, 0.2); border: 1px solid rgba(0, 217, 255, 0.15);">
+        <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30" align="center"/> Next-Gen Cyber Terminal Portfolio</h3>
+        <hr color="#00D9FF" size="1"/>
+        <ul>
+          <li><strong>Interactive Hacking CLI Shell</strong>: Custom terminal console supporting mock commands (<code>/help</code>, <code>/status</code>, <code>/verify</code>, <code>/skills</code>) under a retro linear CRT scanline filter.</li>
+          <li><strong>Live Theme Orchestration Drawer</strong>: Real-time adjustable sliders for glass blurs, HSL accents, and border radii with local storage persistence.</li>
+          <li><strong>Dynamic SVG Gauges & Particle Canvas</strong>: Live resource dials for CPU/RAM/DB latency alongside responsive mouse and multi-touch particle gravity systems.</li>
+          <li>🌐 <strong>Live Domain</strong>: <a href="https://ankitluphrax.qzz.io" target="_blank" style="color: #00D9FF; font-weight: bold;">https://ankitluphrax.qzz.io</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr style="border: none;">
       <td colspan="3" align="left" style="border: none; padding: 20px; margin-top: 16px; background-color: #1a0b2e; border-radius: 12px; vertical-align: top; box-shadow: 0 4px 20px rgba(0, 217, 255, 0.15);">
         <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked.png" width="30" align="center"/> Full-Stack SaaS Engineering (Stealth Startup)</h3>
         <hr color="#00D9FF" size="1"/>
@@ -208,6 +226,34 @@ me.say_hi()
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="35" align="center"/> Featured Showcase
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30" align="center"/> Web Apps & Interactive Systems
+<div align="center">
+  <table border="0" style="border-collapse: collapse; border: none; width: 100%;">
+    <tr style="border: none;">
+      <td colspan="3" align="left" style="border: none; padding: 20px; background-color: #1a0b2e; border-radius: 12px; vertical-align: top; box-shadow: 0 4px 20px rgba(0, 217, 255, 0.2); border: 1px solid rgba(0, 217, 255, 0.15);">
+        <h4>🖥️ Next-Gen Interactive Portfolio & Cyber CRT Console</h4>
+        <p><em>A state-of-the-art interactive playground demonstrating secure systems automation and live theme orchestration.</em></p>
+        <ul>
+          <li><strong>Interactive Cyber CRT Terminal</strong>: Features a fully interactive CLI shell with custom command routing (type <code>/help</code>, <code>/status</code>, <code>/verify</code>) wrapped in a retro linear scanline scan filter.</li>
+          <li><strong>Live Theme Customizer Drawer</strong>: High-tech HSL hue adjustments, card glow filters, and glass-blur sliders with local storage persistence.</li>
+          <li><strong>Dynamic Canvas & SVG Gauges</strong>: Real-time hardware CPU, RAM, and Database latency vector dials powered by responsive touch & cursor tracking engines.</li>
+        </ul>
+        <p>
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS"/>
+          <img src="https://img.shields.io/badge/Cloudflare_Pages-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
+        </p>
+        <a href="https://ankitluphrax.qzz.io" target="_blank">
+          <img src="https://img.shields.io/badge/Launch_Live_Console-00D9FF?style=for-the-badge&logo=appveyor&logoColor=black" alt="Launch Live Console"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30" align="center"/> Data Science & Machine Learning
 <div align="center">
@@ -417,6 +463,7 @@ me.say_hi()
 | **Q2** | Predictive ML Modeling project | ![](https://img.shields.io/badge/Completed-%2300D9FF.svg?style=flat-square&logo=github-actions&logoColor=black) |
 | **Q2** | Quindent Music standalone + website | ![](https://img.shields.io/badge/Completed-%2300D9FF.svg?style=flat-square&logo=github-actions&logoColor=black) |
 | **Q2** | Launch Stealth full-stack Certification Network (v1) | ![](https://img.shields.io/badge/Completed-%2300D9FF.svg?style=flat-square&logo=github-actions&logoColor=black) |
+| **Q2** | Launch Next-Gen Cyber Terminal Portfolio | ![](https://img.shields.io/badge/Completed-%2300D9FF.svg?style=flat-square&logo=github-actions&logoColor=black) |
 | **Q3** | Stealth SaaS Scaled with Supabase & AI chat | ![](https://img.shields.io/badge/In_Progress-%23AB47BC.svg?style=flat-square&logo=git-lfs&logoColor=white) |
 | **Q3** | Deep Learning & Neural Networks | ![](https://img.shields.io/badge/In_Progress-%23AB47BC.svg?style=flat-square&logo=git-lfs&logoColor=white) |
 | **Q3** | Contribute to open source ML projects | ![](https://img.shields.io/badge/Planned-%2378909C.svg?style=flat-square&logo=target&logoColor=white) |
