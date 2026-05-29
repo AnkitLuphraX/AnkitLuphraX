@@ -137,7 +137,7 @@ me.say_hi()
         <ul>
           <li><strong>Interactive Hacking CLI Shell</strong>: Custom terminal console supporting mock commands (<code>/help</code>, <code>/status</code>, <code>/verify</code>, <code>/skills</code>) under a retro linear CRT scanline filter.</li>
           <li><strong>Live Theme Orchestration Drawer</strong>: Real-time adjustable sliders for glass blurs, HSL accents, and border radii with local storage persistence.</li>
-          <li><strong>Dynamic SVG Gauges & Particle Canvas</strong>: Live resource dials for CPU/RAM/DB latency alongside responsive mouse and multi-touch particle gravity systems.</li>
+          <li><strong>Real-Time 3-Channel Canvas Oscilloscope</strong>: Integrated dynamic wave-form oscilloscope plotting CPU, RAM, and DB latency at 60 FPS using smooth Bézier curves, area gradients, and a sweeping cathode-ray laser bar.</li>
           <li>🌐 <strong>Live Domain</strong>: <a href="https://ankitluphrax.qzz.io" target="_blank" style="color: #00D9FF; font-weight: bold;">https://ankitluphrax.qzz.io</a></li>
         </ul>
       </td>
@@ -237,7 +237,7 @@ me.say_hi()
         <ul>
           <li><strong>Interactive Cyber CRT Terminal</strong>: Features a fully interactive CLI shell with custom command routing (type <code>/help</code>, <code>/status</code>, <code>/verify</code>) wrapped in a retro linear scanline scan filter.</li>
           <li><strong>Live Theme Customizer Drawer</strong>: High-tech HSL hue adjustments, card glow filters, and glass-blur sliders with local storage persistence.</li>
-          <li><strong>Dynamic Canvas & SVG Gauges</strong>: Real-time hardware CPU, RAM, and Database latency vector dials powered by responsive touch & cursor tracking engines.</li>
+          <li><strong>3-Channel Real-Time Canvas Oscilloscope</strong>: Real-time telemetry plotting CPU, RAM, and DB latency with smooth Bézier curves, transparent fading area gradients, and vertical scanline sweeps.</li>
         </ul>
         <p>
           <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
@@ -458,16 +458,16 @@ me.say_hi()
 | Quarter | Goals | Status |
 |:---:|---|:---:|
 | **Q1** | Launch Quindent Bot ecosystem | ![](https://img.shields.io/badge/Completed-%2300D9FF.svg?style=flat-square&logo=github-actions&logoColor=black) |
-| **Q1** | Build Antinuke security suite | ![](https://img.shields.io/badge/Completed-%2300D9FF.svg?style=flat-square&logo=github-actions&logoColor=black) |
-| **Q2** | Data Cleaning & Visualization project | ![](https://img.shields.io/badge/Completed-%2300D9FF.svg?style=flat-square&logo=github-actions&logoColor=black) |
-| **Q2** | Predictive ML Modeling project | ![](https://img.shields.io/badge/Completed-%2300D9FF.svg?style=flat-square&logo=github-actions&logoColor=black) |
-| **Q2** | Quindent Music standalone + website | ![](https://img.shields.io/badge/Completed-%2300D9FF.svg?style=flat-square&logo=github-actions&logoColor=black) |
-| **Q2** | Launch Stealth full-stack Certification Network (v1) | ![](https://img.shields.io/badge/Completed-%2300D9FF.svg?style=flat-square&logo=github-actions&logoColor=black) |
-| **Q2** | Launch Next-Gen Cyber Terminal Portfolio | ![](https://img.shields.io/badge/Completed-%2300D9FF.svg?style=flat-square&logo=github-actions&logoColor=black) |
-| **Q3** | Stealth SaaS Scaled with Supabase & AI chat | ![](https://img.shields.io/badge/In_Progress-%23AB47BC.svg?style=flat-square&logo=git-lfs&logoColor=white) |
-| **Q3** | Deep Learning & Neural Networks | ![](https://img.shields.io/badge/In_Progress-%23AB47BC.svg?style=flat-square&logo=git-lfs&logoColor=white) |
-| **Q3** | Contribute to open source ML projects | ![](https://img.shields.io/badge/Planned-%2378909C.svg?style=flat-square&logo=target&logoColor=white) |
-| **Q4** | Full-stack AI-powered web applications | ![](https://img.shields.io/badge/Planned-%2378909C.svg?style=flat-square&logo=target&logoColor=white) |
+| **Q2** | Build Antinuke security suite | ![](https://img.shields.io/badge/Completed-%2300D9FF.svg?style=flat-square&logo=github-actions&logoColor=black) |
+| **Q3** | Data Cleaning & Visualization project | ![](https://img.shields.io/badge/Completed-%2300D9FF.svg?style=flat-square&logo=github-actions&logoColor=black) |
+| **Q4** | Predictive ML Modeling project | ![](https://img.shields.io/badge/Completed-%2300D9FF.svg?style=flat-square&logo=github-actions&logoColor=black) |
+| **Q5** | Quindent Music standalone + website | ![](https://img.shields.io/badge/Completed-%2300D9FF.svg?style=flat-square&logo=github-actions&logoColor=black) |
+| **Q6** | Launch Stealth full-stack Certification Network (v1) | ![](https://img.shields.io/badge/Completed-%2300D9FF.svg?style=flat-square&logo=github-actions&logoColor=black) |
+| **Q7** | Launch Next-Gen Cyber Terminal Portfolio | ![](https://img.shields.io/badge/Completed-%2300D9FF.svg?style=flat-square&logo=github-actions&logoColor=black) |
+| **Q8** | Stealth SaaS Scaled with Supabase & AI chat | ![](https://img.shields.io/badge/In_Progress-%23AB47BC.svg?style=flat-square&logo=git-lfs&logoColor=white) |
+| **Q9** | Deep Learning & Neural Networks | ![](https://img.shields.io/badge/In_Progress-%23AB47BC.svg?style=flat-square&logo=git-lfs&logoColor=white) |
+| **Q10** | Contribute to open source ML projects | ![](https://img.shields.io/badge/Planned-%2378909C.svg?style=flat-square&logo=target&logoColor=white) |
+| **Q11** | Full-stack AI-powered web applications | ![](https://img.shields.io/badge/Planned-%2378909C.svg?style=flat-square&logo=target&logoColor=white) |
 
 </div>
 
