@@ -91,6 +91,17 @@ me.say_hi()
 <div align="center">
   <table border="0" style="border-collapse: collapse; border: none; width: 100%;">
     <tr style="border: none;">
+      <td colspan="3" align="left" style="border: none; padding: 20px; margin-bottom: 24px; background-color: #1a0b2e; border-radius: 12px; vertical-align: top; box-shadow: 0 4px 20px rgba(239, 68, 68, 0.25); border: 2px solid #ef4444;">
+        <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked.png" width="30" align="center"/> 🛡️ XOR-256 Decryption Conquest (Node Decapsulation Bypass)</h3>
+        <hr color="#ef4444" size="1"/>
+        <ul>
+          <li><strong>XOR Payload Extraction & Decryptor Construction</strong>: Successfully bypassed the security bootloader key decapsulation handshake of the <em>SECUR_SHELL v1.4.2</em> container. Wrote custom decryption scripts using Node.js binary buffers to execute reverse XOR byte-mapping.</li>
+          <li><strong>MIME Routing Node Server</strong>: Constructed a native Node.js HTTP server at port 3000 mapping static routes and dynamically compiling decrypted Base64 payloads into single in-memory HTML pages.</li>
+          <li>🔑 <strong>Defeated Protocol 0xDE57RUCT</strong>: Bypassed both client-side and loader-side persistent self-destruct alarm sirens and tab-freezing hooks to recover the pristine unminified portfolio engine.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr style="border: none;">
       <td width="48%" align="left" style="border: none; padding: 20px; background-color: #1a0b2e; border-radius: 12px; vertical-align: top; box-shadow: 0 4px 20px rgba(0, 217, 255, 0.15);">
         <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30" align="center"/> Data Science & ML</h3>
         <hr color="#00D9FF" size="1"/>
