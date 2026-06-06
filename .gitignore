@@ -4,3 +4,8 @@ node_modules/
 .env
 *.tmp
 .vscode/
+agentic-discord-engine/
+*.db
+*.db-journal
+*.db-shm
+*.db-wal

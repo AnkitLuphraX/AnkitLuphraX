@@ -42,9 +42,9 @@ class AnkitLuphraX:
         ]
         
         self.active_projects = {
+            "agentic_discord_engine": "Multi-Agent Discord Orchestration Loop & Telemetry Dashboard",
             "stealth_saas": "Enterprise-Grade Skill Certification & Cryptographic Verification Platform",
-            "quindent": "Enterprise-grade Discord Bot System & Portfolio Dashboards",
-            "data_science": "Predictive Modeling & Statistical ML Pipelines"
+            "quindent": "Enterprise-grade Discord Bot System & Portfolio Dashboards"
         }
         
     def say_hi(self):
@@ -127,6 +127,13 @@ me.say_hi()
         <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="30" align="center"/> Discord Bot Engineering</h3>
         <hr color="#00D9FF" size="1"/>
         <ul>
+          <li><strong>Agentic Discord Engine</strong> 🤖
+            <ul>
+              <li>Gemini-powered collaborative multi-agent loop</li>
+              <li>Next.js Turbopack telemetry dashboard console</li>
+              <li>Relational SQLite persistent memory session state</li>
+            </ul>
+          </li>
           <li><strong>Built Quindent</strong> — enterprise-grade Discord bot
             <ul>
               <li>Advanced Antinuke security system with modular config</li>
@@ -135,8 +142,6 @@ me.say_hi()
               <li>Canvas-rendered "Now Playing" cards</li>
             </ul>
           </li>
-          <li><strong>Separated Quindent Music</strong> into standalone bot</li>
-          <li>Built premium landing page with live stats API</li>
           <li>🔧 Turso database integration for persistence</li>
         </ul>
       </td>
